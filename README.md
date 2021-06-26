@@ -29,7 +29,7 @@ A very frequent question is how many jumpers and in what position they must be o
 #Following the next guide, you can see the jumpers position for UART mode: (https://github.com/bigtreetech/SKR-2/blob/master/Hardware/BIGTREETECH%20SKR%202%20user%20manual.pdf)
 
 INTERESTING: For install the board inside the box in our Wanhao Duplicator i3, I used this STL. You can download STL here:
-(https://www.thingiverse.com/thing:4859228)
+(https://www.thingiverse.com/thing:4587387)
 
 
 * HARDWARE TFT35-E3 V3.0 (OPTIONAL, BUT RECOMMENDED):
