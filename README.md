@@ -1,9 +1,12 @@
 # Wanhao Duplicator i3 - Firmware SKR 2 + TMC2209
 Firmware for Wanhao Duplicator i3 with BIGTREETECH SKR 2 board & TMC2209 Drivers
 
-- Your hardware:
+Your hardware:
+
 1- BIGTREETECH SKR 2 (Mosfet HY1904)
+
 2- BIGTREETECH TMC2209 V1.2 Drivers
+
 3- BIGTREETECH TFT35-E3.0 V3.0 (Optional but recommended)
 
 Install firmware in your 3D Printer:
@@ -13,9 +16,9 @@ Install firmware in your 3D Printer:
 - Check that the file "firmware.bin" on SD Card changed the extension to: "FIRMWARE.CUR". 
 - Done!, The firmware is uploaded!. 
 
-* HARDWARE BOARD SKR 2:
+HARDWARE BOARD SKR 2:
 
-- BIGTREETECH with TMC2209 in UART Mode (Jumpers)
+BIGTREETECH with TMC2209 in UART Mode (Jumpers)
 A very frequent question is how many jumpers and in what position they must be on the SKR 2 board to achieve UART Mode. For this, you have to do the following:
 
 - 2 jumpers in TMC slot for X stepper (see "Wanhao Duplicator i3 - SKR 2 wiring.jpg") if you will use SENSORLESS
