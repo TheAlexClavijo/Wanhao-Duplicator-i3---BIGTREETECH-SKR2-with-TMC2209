@@ -10,8 +10,8 @@ Your hardware:
 3- BIGTREETECH TFT35-E3.0 V3.0 (Optional but recommended)
 
 Install firmware in your 3D Printer:
-- Copy the file "firmware.bin" in an SD (no bigger than 16GB) formatted in FAT
-- Insert the SD card into the SD slot of the Bigtreetech SKR 2 board
+- Copy the file "firmware.bin" in a SD card (no bigger than 16GB) formatted in FAT
+- Insert the SD card into the SD slot of the BIGTREETECH SKR 2 board
 - Reset or turn off/on the BIGTREETECH SKR 2 board
 - Check that the file "firmware.bin" on SD Card changed the extension to: "FIRMWARE.CUR". 
 - Done!, The firmware is uploaded!. 
