@@ -22,7 +22,7 @@ BIGTREETECH with TMC2209 in UART Mode (Jumpers)
 A very frequent question is how many jumpers and in what position they must be on the SKR 2 board to achieve UART Mode. For this, you have to do the following:
 
 - 2 jumpers in TMC slot for X stepper (see "https://github.com/TheAlexClavijo/Wanhao-Duplicator-i3---BIGTREETECH-SKR2-with-TMC2209/blob/main/Wanhao%20Duplicator%20i3%20-%20SKR%202%20wiring.jpg") if you will use SENSORLESS
-- 2 jumpers in TMC slot for Y stepper (see "https://github.com/TheAlexClavijo/Wanhao-Duplicator-i3---BIGTREETECH-SKR2-with-TMC2209/blob/main/Wanhao%20Duplicator%20i3%20-%20SKR%202%20wiring.jpgg") if you will use SENSORLESS
+- 2 jumpers in TMC slot for Y stepper (see "https://github.com/TheAlexClavijo/Wanhao-Duplicator-i3---BIGTREETECH-SKR2-with-TMC2209/blob/main/Wanhao%20Duplicator%20i3%20-%20SKR%202%20wiring.jpg") if you will use SENSORLESS
 - 1 jumper in TMC slot for Z (ZA & ZB) stepper (see "https://github.com/TheAlexClavijo/Wanhao-Duplicator-i3---BIGTREETECH-SKR2-with-TMC2209/blob/main/Wanhao%20Duplicator%20i3%20-%20SKR%202%20wiring.jpg")
 - 1 jumper in TMC slot for E0 stepper (see "https://github.com/TheAlexClavijo/Wanhao-Duplicator-i3---BIGTREETECH-SKR2-with-TMC2209/blob/main/Wanhao%20Duplicator%20i3%20-%20SKR%202%20wiring.jpg")
 
