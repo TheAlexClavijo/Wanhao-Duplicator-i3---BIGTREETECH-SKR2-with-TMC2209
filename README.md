@@ -1,6 +1,8 @@
 # Wanhao Duplicator i3 - Firmware SKR 2 + TMC2209
 Firmware for Wanhao Duplicator i3 with BIGTREETECH SKR 2 board & TMC2209 Drivers
 
+<img align="center" width=100% src="https://user-images.githubusercontent.com/86481337/124321334-cfe1aa80-db7d-11eb-856c-7e5d3ff10942.jpg" />
+
 Your hardware:
 
 1- BIGTREETECH SKR 2 (Mosfet HY1904)
