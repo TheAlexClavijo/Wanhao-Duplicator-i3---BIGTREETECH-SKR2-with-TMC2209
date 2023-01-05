@@ -3,7 +3,7 @@ Firmware for Wanhao Duplicator i3 with BIGTREETECH SKR 2 board & TMC2209 Drivers
 
 <img align="center" width=100% src="https://user-images.githubusercontent.com/86481337/124321334-cfe1aa80-db7d-11eb-856c-7e5d3ff10942.jpg" />
 
-UPDATE: 01 January 2023
+UPDATE: 05 January 2023
  - Added "firmware.bin" with Filament Sensor activated (Can be disabled from TFT: Marlin or TFT mode)
  - Added files "Configuration.h" and "Configuration_adv.h"
  - Added image with Filament sensor wiring
